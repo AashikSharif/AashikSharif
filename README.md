@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm [AashikSharif][website] 👋
+[![Website](https://img.shields.io/website?label=aashiksharif.ml&style=for-the-badge&url=https%3A%2F%2Faashiksharif.ml)](https://aashiksharif.ml)
 <!--
 **AashikSharif/AashikSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
