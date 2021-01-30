@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## I'm a Student, Developer and Photographer!!
 
-- 🔭 I just worked on my recent project on Page Ranking using MapReduce Algorithm!
+- 🔭 I just worked on my recent project on Topic Sensitive Page Ranking algorithm using MapReduce!
 - 🌱 I’m currently learning digital marketing and machine learning
 - 📸 I'm also working on my own portfolio website for showcasing my photographs to the world
 - 👯 I’m looking to collaborate with projects that are realted to Python or Java
