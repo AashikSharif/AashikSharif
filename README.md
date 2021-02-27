@@ -1,6 +1,7 @@
 ### Hi there, I'm [AashikSharif][website] 👋
 [![Website](https://img.shields.io/website?label=aashiksharif.ml&style=for-the-badge&url=https%3A%2F%2Faashiksharif.ml)](https://aashiksharif.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AashikSharif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAashikSharif&screen_name=AashikSharif)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9cd5007e-fa26-4a64-a803-1519f587d585/deploy-status)](https://app.netlify.com/sites/aashiksharif/deploys)
 <!--
 **AashikSharif/AashikSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
