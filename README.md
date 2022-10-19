@@ -42,8 +42,7 @@ ________________________________________________________________________________
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Aashik's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aashiksharif&show_icons=true_border=true" />
+  <img align="left" alt="Aashik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashiksharif&show_icons=true&hide_border=true&&count_private=true&show_icons=true&hide=stars,prs,issues,contribs" />
 
 </details>
 
