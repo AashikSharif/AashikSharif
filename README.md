@@ -1,5 +1,5 @@
 ### Hi there, I'm [AashikSharif][website] 👋
-[![Website](https://img.shields.io/website?label=aashiksharif.ml&style=for-the-badge&url=https%3A%2F%2Faashiksharif.ml)](https://aashiksharif.ml)
+[![Website](https://img.shields.io/website?label=aashiksharif.ml&style=for-the-badge&url=https%3A%2F%2Faashiksharif.github.io)](https://aashiksharif.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AashikSharif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAashikSharif&screen_name=AashikSharif)
 
 <!--
@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Student, Developer and Photographer!!
+## I'm a Working professional, Developer and Photographer!!
 
-- 🔭 I just worked on my recent project on Topic Sensitive Page Ranking algorithm using MapReduce!
-- 🌱 I’m currently learning digital marketing and machine learning
+- 🔭 I've worked on projects on Topic Sensitive Page Ranking algorithm using MapReduce!
+- 🌱 I’m currently learning machine learning/Deep learning and data analytics and reporting. 
 - 📸 I'm also working on my own portfolio website for showcasing my photographs to the world
-- 👯 I’m looking to collaborate with projects that are realted to Python or Java
+- 👯 I’m looking to collaborate with projects that are realted to Python 🐍 or Java ☕
 - 🥅 One of the goals is to learn and utilize the GitHub as much as possible
-- ⚡ Fun fact: I am interested in numismatics and playing games (Ace Combat is my favorite)
+- ⚡ Fun fact: I am interested in numismatics and playing games (Ace Combat/Valorant is my favorite)
 - 😄 Looking forward to learn and contribute more on open source projects
 
 
@@ -49,7 +49,7 @@ ________________________________________________________________________________
 [![@ashiktcy's Holopin board](https://holopin.me/ashiktcy)](https://holopin.io/@ashiktcy)
 
 
-[website]: https://aashiksharif.ml
+[website]: https://aashiksharif.github.io
 [twitter]: https://twitter.com/AashikSharif
 [instagram]: https://www.instagram.com/aashik_sharif/
 [linkedin]: https://www.linkedin.com/in/aashik-sharif-b-44ba40b5/
