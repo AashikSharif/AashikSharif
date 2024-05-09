@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Working professional, Developer and Photographer!!
+## I'm a Student, Developer and Photographer!!
 
 - 🔭 I've worked on projects on Topic Sensitive Page Ranking algorithm using MapReduce!
 - 🌱 I’m currently learning machine learning/Deep learning and data analytics and reporting. 
