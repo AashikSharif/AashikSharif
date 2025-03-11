@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Student, Developer and Photographer!!
-
-- 🔭 I've worked on projects on Topic Sensitive Page Ranking algorithm using MapReduce!
-- 🌱 I’m currently learning machine learning/Deep learning and data analytics and reporting. 
-- 📸 I'm also working on my own portfolio website for showcasing my photographs to the world
-- 👯 I’m looking to collaborate with projects that are realted to Python 🐍 or Java ☕
-- 🥅 One of the goals is to learn and utilize the GitHub as much as possible
-- ⚡ Fun fact: I am interested in numismatics and playing games (Ace Combat/Valorant is my favorite)
-- 😄 Looking forward to learn and contribute more on open source projects
-
+## I'm a Student, Data Engineer and Developer!
+- 🔭 I've worked on projects involving Neural Network-driven Histopathological Tumor Classification, Forecasting Energy Availability from Renewable Resources, and Topic-Sensitive Page Ranking using MapReduce.
+- 🌱 I’m currently advancing my knowledge in Machine Learning, Deep Learning, Data Engineering, and Cloud Computing.
+- 📸 I'm an member of the WSU Photography Club, continuously refining my photography skills and building a portfolio website to showcase my work.
+- 👯 I’m looking to collaborate on projects related to Python 🐍, Java ☕, Machine Learning, and Data Science.
+- 🏆 My latest hackathon journey includes winning in two categories at WSU Crimson Code 2025 and receiving an honorable mention at the AgAID Digital AgAth0n 2025 for the Snowpack Prediction Challenge.
+- 🥅 One of my goals is to actively contribute to open-source projects and leverage GitHub for collaboration.
+- ⚡ Fun fact: I'm interested in numismatics (coin collecting) and gaming—Ace Combat is my favorite!
+- 😄 Looking forward to learning, mentoring, and contributing more to the tech community!
 
 ### Connect with me:
 
@@ -52,6 +51,6 @@ ________________________________________________________________________________
 [website]: https://aashiksharif.github.io
 [twitter]: https://twitter.com/AashikSharif
 [instagram]: https://www.instagram.com/aashik_sharif/
-[linkedin]: https://www.linkedin.com/in/aashik-sharif-b-44ba40b5/
+[linkedin]: https://www.linkedin.com/in/aashiksharif/
 [facebook]: https://www.facebook.com/aashiksharif/
 [stackoverflow]: https://stackoverflow.com/users/10793629/aashik-sharif
