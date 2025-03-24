@@ -1,5 +1,5 @@
 ### Hi there, I'm [AashikSharif][website] 👋
-[![Website](https://img.shields.io/website?label=aashiksharif.ml&style=for-the-badge&url=https%3A%2F%2Faashiksharif.github.io)](https://aashiksharif.github.io)
+[![Website](https://img.shields.io/website?label=aashiksharif.github.io&style=for-the-badge&url=https%3A%2F%2Faashiksharif.github.io)](https://aashiksharif.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AashikSharif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAashikSharif&screen_name=AashikSharif)
 
 <!--
@@ -47,7 +47,9 @@ ________________________________________________________________________________
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AashikSharif&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=AashikSharif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AashikSharif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashikSharif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AashikSharif&theme=radical&no-frame=false&no-bg=false&margin-w=4)
