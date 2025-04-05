@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm a Student, Data Engineer and Developer!
-- 🔭 I've worked on projects involving Neural Network-driven Histopathological Tumor Classification, Forecasting Energy Availability from Renewable Resources, and Topic-Sensitive Page Ranking using MapReduce.
-- 🌱 I’m currently advancing my knowledge in Machine Learning, Deep Learning, Data Engineering, and Cloud Computing.
-- 📸 I'm an member of the WSU Photography Club, continuously refining my photography skills and building a portfolio website to showcase my work.
-- 👯 I’m looking to collaborate on projects related to Python 🐍, Java ☕, Machine Learning, and Data Science.
+- 🔭 I've worked on projects involving Data Engineering, Website creations, Neural Network-driven Histopathological Tumor Classification and Topic-Sensitive Page Ranking using MapReduce (web-scraping).
+- 🌱 I’m currently advancing my knowledge in Data Engineering, Machine Learning and Cloud Computing.
 - 🏆 My latest hackathon journey includes winning in two categories at WSU Crimson Code 2025 and receiving an honorable mention at the AgAID Digital AgAth0n 2025 for the Snowpack Prediction Challenge.
-- 🥅 One of my goals is to actively contribute to open-source projects and leverage GitHub for collaboration.
+- 📸 I'm a member of the WSU Photography Club, continuously refining my photography skills and building a portfolio website to showcase my work.
+- 👯 I’m looking to collaborate on projects related to Python 🐍, Java ☕, Data Engineering and Data Science.
+- 🥅 One of my goals is to contribute to open-source projects and leverage GitHub for collaboration actively.
 - ⚡ Fun fact: I'm interested in numismatics (coin collecting) and gaming—Ace Combat is my favorite!
 - 😄 Looking forward to learning, mentoring, and contributing more to the tech community!
 
@@ -41,18 +41,18 @@ ________________________________________________________________________________
 ### 🥇 Hackathons & Certifications:
 <div align="center">
   <span style="display: inline-block; text-align: center; margin: 0 10px;">
-    <a href="https://www.badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
-      <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" width="120px" alt="Postman Badge" />
+    <a href="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
+      <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" width="100px" alt="Postman Badge" />
       <div><strong>Postman API Fundamentals</strong><br><small>Awarded: Apr 4, 2025</small></div>
     </a>
   </span><span style="display: inline-block; text-align: center; margin: 0 10px;">
-    <a href="https://www.badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w">
-      <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" width="120px" alt="CrimsonCode Badge" />
+    <a href="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w">
+      <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" width="100px" alt="CrimsonCode Badge" />
       <div><strong>CrimsonCode '25</strong><br><small>Awarded: Feb 18, 2025</small></div>
     </a>
   </span><span style="display: inline-block; text-align: center; margin: 0 10px;">
-    <a href="https://www.badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
-      <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" width="120px" alt="AgAth0n Badge" />
+    <a href="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
+      <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" width="100px" alt="AgAth0n Badge" />
       <div><strong>AgAth0n 2025</strong><br><small>Awarded: Feb 4, 2025</small></div>
     </a>
   </span>
