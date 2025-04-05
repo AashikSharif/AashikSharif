@@ -40,19 +40,19 @@ Here are some ideas to get you started:
 __________________________________________________________________________________________
 ### 🥇 Hackathons & Certifications:
 <div align="center">
-  <span style="display: inline-block; text-align: center; margin: 0 10px;">
+  <span style="display: inline-block; margin: 0 10px;">
     <a href="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
-      <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" width="100px" alt="Postman Badge" />
+      <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" width="60px" alt="Postman Badge" />
       <div><strong>Postman API Fundamentals</strong><br><small>Awarded: Apr 4, 2025</small></div>
     </a>
-  </span><span style="display: inline-block; text-align: center; margin: 0 10px;">
+  </span><span style="display: inline-block; margin: 0 10px;">
     <a href="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w">
-      <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" width="100px" alt="CrimsonCode Badge" />
+      <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" width="60px" alt="CrimsonCode Badge" />
       <div><strong>CrimsonCode '25</strong><br><small>Awarded: Feb 18, 2025</small></div>
     </a>
-  </span><span style="display: inline-block; text-align: center; margin: 0 10px;">
+  </span><span style="display: inline-block; margin: 0 10px;">
     <a href="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
-      <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" width="100px" alt="AgAth0n Badge" />
+      <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" width="60px" alt="AgAth0n Badge" />
       <div><strong>AgAth0n 2025</strong><br><small>Awarded: Feb 4, 2025</small></div>
     </a>
   </span>
