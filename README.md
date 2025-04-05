@@ -40,24 +40,7 @@ Here are some ideas to get you started:
 __________________________________________________________________________________________
 ### 🥇 Hackathons & Certifications:
 
-<div align="center">
-  <span style="display: inline-block; margin: 0 10px;">
-    <a href="[https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg](https://api.badgr.io/public/assertions/TK_jhUvlRoGm-ITXLv3RHg?identity__email=ashiktcy.s%40gmail.com)">
-      <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" width="80px" alt="Postman Badge" />
-      <div><strong>Postman API Fundamentals</strong><br><small>Awarded: Apr 4, 2025</small></div>
-    </a>
-  </span><span style="display: inline-block;margin: 0 10px;">
-    <a href="[https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w](https://api.badgr.io/public/assertions/Lq65nbS7QsapaJkxBXu8-w?identity__email=ashiktcy.s%40gmail.com)">
-      <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" width="80px" alt="CrimsonCode Badge" />
-      <div><strong>CrimsonCode '25</strong><br><small>Awarded: Feb 18, 2025</small></div>
-    </a>
-  </span><span style="display: inline-block; margin: 0 10px;">
-    <a href="[https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg](https://api.badgr.io/public/assertions/omY8yXBiTkSOYwtkXnL4Yg?identity__email=ashiktcy.s%40gmail.com)">
-      <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" width="80px" alt="AgAth0n Badge" />
-      <div><strong>AgAth0n 2025</strong><br><small>Awarded: Feb 4, 2025</small></div>
-    </a>
-  </span>
-</div>
+<div align="center"><div style="display:inline-block; text-align:center; "> <a href="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg"><img width="120px" height="120px" src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" alt="Postman Badge"></a><be><strong>Postman API Fundamentals Student Expert</strong><be><small>Awarded: Apr 4, 2025</small></div><div style="display:inline-block; text-align:center;  "><a href="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w"><img width="120px" height="120px" src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" alt="CrimsonCode Badge"></a><br><strong>CrimsonCode '25 Participant</strong><br><small>Awarded: Feb 18, 2025</small><br><small>Awarded To: Aashik Sharif Basheer Ahamed</small></div><div style="display:inline-block; text-align:center; "><a href="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg"><img width="120px" height="120px" src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" alt="AgAth0n Badge"></a><br><strong>AgAID Digital AgAth0n 2025 - Participant</strong><br><small>Awarded: Feb 4, 2025</small><br><small>Awarded To: Aashik Sharif Basheer Ahamed</small></div></div>
 
 
 ### 💻 Tech Stack:
