@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 
 __________________________________________________________________________________________
 ### 🥇 Hackathons & Certifications:
-<a href="https://api.badgr.io/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
-    <img src="https://api.badgr.io/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" alt="Badge: Postman API Fundamentals Student Expert" width="150px"/>
+<a href="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
+    <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" alt="Postman API Fundamentals Student Expert" width="150px" />
 </a>
 
-<a href="https://api.badgr.io/public/assertions/Lq65nbS7QsapaJkxBXu8-w">
-    <img src="https://api.badgr.io/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" alt="Badge: CrimsonCode '25 Participant" width="150px"/>
+<a href="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w">
+    <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" alt="CrimsonCode '25 Participant" width="150px" />
 </a>
 
-<a href="https://api.badgr.io/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
-    <img src="https://api.badgr.io/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" alt="Badge: AgAID Digital AgAth0n 2025 - Participant" width="150px"/>
+<a href="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
+    <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" alt="AgAID Digital AgAth0n 2025 Participant" width="150px" />
 </a>
 
 ### 💻 Tech Stack:
