@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br />
 
 __________________________________________________________________________________________
-### 🥇 Certifications:
+### 🥇 Hackathons & Certifications:
 <a href="https://api.badgr.io/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
     <img src="https://api.badgr.io/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" alt="Badge: Postman API Fundamentals Student Expert" width="150px"/>
 </a>
