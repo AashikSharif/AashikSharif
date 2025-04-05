@@ -43,14 +43,10 @@ ________________________________________________________________________________
   <a href="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
     <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" width="120px" alt="Postman Badge" />
     <p><strong>Postman API Fundamentals</strong><br><small>Awarded: Apr 4, 2025</small></p>
-  </a>
-
-  <a href="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w" style="margin: 0 20px;">
+  </a><a href="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w" style="margin: 0 20px;">
     <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" width="120px" alt="CrimsonCode Badge" />
     <p><strong>CrimsonCode '25</strong><br><small>Awarded: Feb 18, 2025</small></p>
-  </a>
-
-  <a href="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
+  </a><a href="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
     <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" width="120px" alt="AgAth0n Badge" />
     <p><strong>AgAth0n 2025</strong><br><small>Awarded: Feb 4, 2025</small></p>
   </a>
