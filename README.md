@@ -42,17 +42,17 @@ ________________________________________________________________________________
 
 <div align="center">
   <span style="display: inline-block; margin: 0 10px;">
-    <a href="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg">
+    <a href="[https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg](https://api.badgr.io/public/assertions/TK_jhUvlRoGm-ITXLv3RHg?identity__email=ashiktcy.s%40gmail.com)">
       <img src="https://badgr.com/public/assertions/TK_jhUvlRoGm-ITXLv3RHg/image" width="80px" alt="Postman Badge" />
       <div><strong>Postman API Fundamentals</strong><br><small>Awarded: Apr 4, 2025</small></div>
     </a>
   </span><span style="display: inline-block;margin: 0 10px;">
-    <a href="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w">
+    <a href="[https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w](https://api.badgr.io/public/assertions/Lq65nbS7QsapaJkxBXu8-w?identity__email=ashiktcy.s%40gmail.com)">
       <img src="https://badgr.com/public/assertions/Lq65nbS7QsapaJkxBXu8-w/image" width="80px" alt="CrimsonCode Badge" />
       <div><strong>CrimsonCode '25</strong><br><small>Awarded: Feb 18, 2025</small></div>
     </a>
   </span><span style="display: inline-block; margin: 0 10px;">
-    <a href="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg">
+    <a href="[https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg](https://api.badgr.io/public/assertions/omY8yXBiTkSOYwtkXnL4Yg?identity__email=ashiktcy.s%40gmail.com)">
       <img src="https://badgr.com/public/assertions/omY8yXBiTkSOYwtkXnL4Yg/image" width="80px" alt="AgAth0n Badge" />
       <div><strong>AgAth0n 2025</strong><br><small>Awarded: Feb 4, 2025</small></div>
     </a>
