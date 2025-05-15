@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Student, Data Engineer and Developer!
+## I'm a Computer Science Graduate, Data Engineer and Photographer!
 - 🔭 I've worked on projects involving Data Engineering, Website creations, Neural Network-driven Histopathological Tumor Classification and Topic-Sensitive Page Ranking using MapReduce (web-scraping).
 - 🌱 I’m currently advancing my knowledge in Data Engineering, Machine Learning and Cloud Computing.
 - 🏆 My latest hackathon journey includes winning in two categories at WSU Crimson Code 2025 and receiving an honorable mention at the AgAID Digital AgAth0n 2025 for the Snowpack Prediction Challenge.
 - 📸 I'm a member of the WSU Photography Club, continuously refining my photography skills and building a portfolio website to showcase my work.
 - 👯 I’m looking to collaborate on projects related to Python 🐍, Java ☕, Data Engineering and Data Science.
 - 🥅 One of my goals is to contribute to open-source projects and leverage GitHub for collaboration actively.
-- ⚡ Fun fact: I'm interested in numismatics (coin collecting) and gaming—Ace Combat is my favorite!
+- ⚡ Fun fact: I'm interested in numismatics (coin collecting) and gaming — Ace Combat is my favorite!
 - 😄 Looking forward to learning, mentoring, and contributing more to the tech community!
 
 ### Connect with me:
